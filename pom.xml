@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.restfull.spring</groupId>
-    <artifactId>RestFullService</artifactId>
+    <artifactId>RestFulService</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>RestFullService</name>
+    <name>RestFulService</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
